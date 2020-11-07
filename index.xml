@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>My First Post</title>
+      <title>Hugo</title>
       <link>https://andgrit.github.io/posts/my-first-post/</link>
       <pubDate>Fri, 06 Nov 2020 17:30:45 -0800</pubDate>
       
       <guid>https://andgrit.github.io/posts/my-first-post/</guid>
-      <description>Title Is this mark down</description>
+      <description> Visit https://andgrit.github.io/ Source in https://github.com/andgrit/andgrit see README Published output in https://github.com/andgrit/andgrit.github.io never edit  </description>
     </item>
     
   </channel>
